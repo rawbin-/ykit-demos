@@ -1,0 +1,12 @@
+{
+  "ret|0-1":true,
+  "data|2-5":[{
+    "name":"@last @first",
+    "email":"@email",
+    "registerDateTime": "@date('yyyy-MM-dd') @time('HH:mm:ss')"
+  },{
+    "name":"@last @first",
+    "email":"@email",
+    "registerDateTime": "@date('yyyy-MM-dd') @time('HH:mm:ss')"
+  }]
+}
